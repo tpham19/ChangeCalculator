@@ -1,6 +1,6 @@
 /*
  * Calculates the change for a given payment and the number
- * of quarters, dimes, nickels, pennies needed for the change.
+ * of quarters, dimes, nickels, and pennies needed for the change.
  */
 
 #include <iostream>;
